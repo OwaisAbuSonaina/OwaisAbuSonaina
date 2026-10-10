@@ -33,11 +33,11 @@ I am an AI Engineer holding a B.Sc. in Artificial Intelligence from the Universi
 
 | Project                                                                                                             | Description                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **[llm_projects](https://github.com/OwaisAbuSonaina/llm_projects)**                                                 | Applied LLM workflows focusing on RAG, agentic systems, and multimodal AI assistants.                                   |
-| **[Plant Disease Detection Microservice](https://github.com/OwaisAbuSonaina/Plant-Disease-Detection-Microservice)** | Scalable predictive AI microservice built with Python (FastAPI) and deployed using Docker[cite: 4].                     |
-| **Space Debris Object Detection & Tracking**                                                                        | Engineered the Adaptive Dual-Head Detector (ADHD) framework for analyzing complex spatial datasets[cite: 4].            |
-| **Vision Transformer (ViT) Replication**                                                                            | From-scratch PyTorch replication of the ViT architecture, focused on patch embedding and algorithmic geometry[cite: 4]. |
-| **Chest X-Ray Pneumonia Detector**                                                                                  | Fine-tuned ResNet50 system for complex image analysis, achieving 92% Recall to minimize False Negatives[cite: 4].       |
+| **llm_projects**                                                 | Applied LLM workflows focusing on RAG, agentic systems, and multimodal AI assistants.                                   |
+| **Plant Disease Detection Microservice** | Scalable predictive AI microservice built with Python (FastAPI) and deployed using Docker.                     |
+| **Space Debris Object Detection & Tracking**                                                                        | Engineered the Adaptive Dual-Head Detector (ADHD) framework for analyzing complex spatial datasets.            |
+| **Vision Transformer (ViT) Replication**                                                                            | From-scratch PyTorch replication of the ViT architecture, focused on patch embedding and algorithmic geometry. |
+| **Chest X-Ray Pneumonia Detector**                                                                                  | Fine-tuned ResNet50 system for complex image analysis, achieving 92% Recall to minimize False Negatives.       |
 
 ## 📊 GitHub Stats
 
