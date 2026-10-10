@@ -4,7 +4,6 @@
 <p align="center">
   <a href="mailto:owaisabusonaina@gmail.com"><img src="https://img.shields.io/badge/Email-owaisabusonaina%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/owais-abu-sonaina/"><img src="https://img.shields.io/badge/LinkedIn-owais--abu--sonaina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/OwaisAbuSonaina"><img src="https://img.shields.io/badge/GitHub-OwaisAbuSonaina-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ## 👨🏻‍💻 About Me
