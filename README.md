@@ -45,6 +45,3 @@ I am an AI Engineer holding a B.Sc. in Artificial Intelligence from the Universi
   <img src="https://github-readme-stats.vercel.app/api?username=OwaisAbuSonaina&show_icons=true&hide_title=true&theme=dracula" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OwaisAbuSonaina&theme=dracula" height="165" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisAbuSonaina&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
