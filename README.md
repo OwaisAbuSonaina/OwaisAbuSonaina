@@ -38,10 +38,3 @@ I am an AI Engineer holding a B.Sc. in Artificial Intelligence from the Universi
 | **Space Debris Object Detection & Tracking**                                                                        | Engineered the Adaptive Dual-Head Detector (ADHD) framework for analyzing complex spatial datasets.            |
 | **Vision Transformer (ViT) Replication**                                                                            | From-scratch PyTorch replication of the ViT architecture, focused on patch embedding and algorithmic geometry. |
 | **Chest X-Ray Pneumonia Detector**                                                                                  | Fine-tuned ResNet50 system for complex image analysis, achieving 92% Recall to minimize False Negatives.       |
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OwaisAbuSonaina&show_icons=true&hide_title=true&theme=dracula" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OwaisAbuSonaina&theme=dracula" height="165" alt="GitHub Streak" />
-</p>
