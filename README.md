@@ -6,11 +6,11 @@
   <a href="https://www.linkedin.com/in/owais-abu-sonaina/"><img src="https://img.shields.io/badge/LinkedIn-owais--abu--sonaina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-## 👨🏻‍💻 About Me
+## About Me
 
 I am an AI Engineer holding a B.Sc. in Artificial Intelligence from the University of Jordan[cite: 4]. My focus is on bridging theoretical research with practical software implementation to build and deploy production-ready machine learning systems[cite: 4]. Recently, I completed an AI Engineering internship at Nafith International Group, where I developed automated computer vision pipelines and implemented scalable, secure MLOps pipelines for model lifecycle management[cite: 4]. My technical foundation spans deep learning, RAG systems, and Vector Databases[cite: 4].
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -29,7 +29,7 @@ I am an AI Engineer holding a B.Sc. in Artificial Intelligence from the Universi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project                                                                                                             | Description                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
