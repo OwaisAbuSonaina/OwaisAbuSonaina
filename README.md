@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Owais Abu Sonaina 👋</h1>
-<h3 align="center">AI Engineer | Computer Vision & LLMs | MLOps</h3>
+<h3 align="center">AI Engineer | LLMs | Computer Vision | MLOps</h3>
 
 <p align="center">
   <a href="mailto:owaisabusonaina@gmail.com"><img src="https://img.shields.io/badge/Email-owaisabusonaina%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -33,8 +33,7 @@ I am an AI Engineer holding a B.Sc. in Artificial Intelligence from the Universi
 
 | Project                                                                                                             | Description                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **llm_projects**                                                 | Applied LLM workflows focusing on RAG, agentic systems, and multimodal AI assistants.                                   |
-| **Plant Disease Detection Microservice** | Scalable predictive AI microservice built with Python (FastAPI) and deployed using Docker.                     |
-| **Space Debris Object Detection & Tracking**                                                                        | Engineered the Adaptive Dual-Head Detector (ADHD) framework for analyzing complex spatial datasets.            |
-| **Vision Transformer (ViT) Replication**                                                                            | From-scratch PyTorch replication of the ViT architecture, focused on patch embedding and algorithmic geometry. |
-| **Chest X-Ray Pneumonia Detector**                                                                                  | Fine-tuned ResNet50 system for complex image analysis, achieving 92% Recall to minimize False Negatives.       |
+| **[GYMLLM](https://github.com/OwaisAbuSonaina/GYMLLM)**                                                             | An internal HR RAG assistant built with FastAPI and Chroma to automate branch queries from a policy knowledge base. |
+| **[llm_projects](https://github.com/OwaisAbuSonaina/llm_projects)**                                                 | A collection of applied LLM workflows focusing on RAG, agentic systems, and multimodal AI assistants.               |         
+| **[Plant Disease Detection Microservice](https://github.com/OwaisAbuSonaina/Plant-Disease-Detection-Microservice)** | Scalable predictive AI microservice built with Python (FastAPI) and deployed using Docker.                          |
+| **[Chest X-Ray Pneumonia Detector](https://github.com/OwaisAbuSonaina/Chest-X-Ray-Pneumonia-Detector)**             | Fine-tuned ResNet50 system for complex image analysis, achieving 92% Recall to minimize False Negatives.            |
