@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Owais Abu Sonaina 👋</h1>
-<h3 align="center">AI Engineer | LLMs | Computer Vision | MLOps</h3>
+<h3 align="center">AI Engineer | LLMs | Machine Learning | Computer Vision | MLOps</h3>
 
 <p align="center">
   <a href="mailto:owaisabusonaina@gmail.com"><img src="https://img.shields.io/badge/Email-owaisabusonaina%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -8,7 +8,13 @@
 
 ## About Me
 
-I am an AI Engineer holding a B.Sc. in Artificial Intelligence from the University of Jordan[cite: 4]. My focus is on bridging theoretical research with practical software implementation to build and deploy production-ready machine learning systems[cite: 4]. Recently, I completed an AI Engineering internship at Nafith International Group, where I developed automated computer vision pipelines and implemented scalable, secure MLOps pipelines for model lifecycle management[cite: 4]. My technical foundation spans deep learning, RAG systems, and Vector Databases[cite: 4].
+I am an **AI Engineer** focused on building production-ready machine learning systems, LLM/RAG pipelines, and high-throughput computer vision services. My work emphasizes the bridge between experimental modeling and robust backend engineering.
+
+- **LLMs & RAG:** Async retrieval pipelines using FastAPI, ChromaDB, and automated LLM-as-a-judge evaluation frameworks.
+- **Computer Vision:** Production-grade visual perception pipelines, object classification, and edge-to-service inference.
+- **MLOps & Backend:** Containerized microservices (Docker), automated lifecycle workflows, model serving, and API performance optimization.
+
+<br>
 
 ## Tech Stack
 
@@ -28,6 +34,10 @@ I am an AI Engineer holding a B.Sc. in Artificial Intelligence from the Universi
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+<br>
+
 
 ## Featured Projects
 
